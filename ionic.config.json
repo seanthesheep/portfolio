@@ -1,6 +1,5 @@
 {
   "name": "imseansullivan.info",
-  "app_id": "",
-  "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {},
+  "type": "ionic-angular"
 }
